@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+deploy/django_app/db.sqlite3
+deploy/django_app/artifacts/
+.pytest_cache/
+.env
